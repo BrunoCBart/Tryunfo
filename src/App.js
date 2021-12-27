@@ -18,7 +18,7 @@ function App() {
             rel="noreferrer"
           >
             <i class="fab fa-github"></i>
-            <p>code</p>
+            code
           </a>
           <p>Projeto criado por Bruno Bartolomeu</p>
         </footer>
