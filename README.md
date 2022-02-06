@@ -1,7 +1,7 @@
 # Tryunfo
  Monte seu deck de cards customizado
  <br>
- [acesse o projeto](https://brunobcb-project-tryunfo.surge.sh/)
+ [Acesse o projeto](https://brunobcb-project-tryunfo.surge.sh/)
 
 <img src="https://github.com/BrunoCBart/brunocbart.github.io/blob/master/assets/images/tryunfo-desc.png"/>
 
